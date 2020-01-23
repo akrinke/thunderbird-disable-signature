@@ -8,5 +8,5 @@ content	disablesignature	chrome/content/
 locale disablesignature en chrome/locale/en/
 locale disablesignature de chrome/locale/de/
 
-overlay chrome://messenger/content/messenger.xul chrome://disable-signature/content/disablesignatureOverlay.xul
+overlay chrome://messenger/content/messenger.xul chrome://disablesignature/content/disablesignatureOverlay.xul
 
